@@ -22,3 +22,5 @@ fn main() {
     println!("The value of x is: {x}"); // Shadowing allows transformations of a variable with let. But the variable is still immutable.
                                         // We are effectively creating a new variable with let.
 }
+
+// Left at https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
